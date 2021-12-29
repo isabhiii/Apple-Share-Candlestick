@@ -4,3 +4,6 @@
 2) Downloaded the data of AAPL share from Yahoo finance (https://finance.yahoo.com/quote/AAPL/)
 3) Convert .csv file into table using Pandas dataframe function and set 'Date' column as an Index
 4) Plot the chart using Mplfinance library and set the style to 'Yahoo
+
+Graph:
+![alt text] (https://github.com/isabhiii/Apple-Share-Candlestick/blob/main/Apple%20share%20candlestick/Apple%20share%20Price.png)
